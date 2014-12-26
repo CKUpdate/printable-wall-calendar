@@ -3,6 +3,14 @@
   "repository": "git@github.com:CKUpdate/printable-wall-calendar.git",
   "version": "2.0.0",
   "dependencies": {
-    "basic-culture-selector": "CKUpdate/basic-culture-selector#master"
-  }
+    "basic-culture-selector": "CKUpdate/basic-culture-selector#master",
+    "polymer": "CKUpdate/polymer#master",
+    "basic-button": "CKUpdate/basic-button#master",
+    "basic-calendar-month": "CKUpdate/basic-calendar-month#master",
+    "basic-days-of-week": "CKUpdate/basic-days-of-week#master"
+  },
+  "keywords": [
+    "web-components",
+    "flatten"
+  ]
 }

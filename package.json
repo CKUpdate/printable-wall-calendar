@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "dependencies": {
     "basic-culture-selector": "CKUpdate/basic-culture-selector#master",
-    "polymer": "CKUpdate/polymer#master",
+    "polymer": "CKUpdate/polymer#0.5.2000",
     "basic-button": "CKUpdate/basic-button#master",
     "basic-calendar-month": "CKUpdate/basic-calendar-month#master",
     "basic-days-of-week": "CKUpdate/basic-days-of-week#master"
